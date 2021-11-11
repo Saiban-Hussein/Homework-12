@@ -1,0 +1,26 @@
+{
+  "name": "homework-12",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saiban-Hussein/Homework-12"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Saiban-Hussein/Homework-12/issues"
+  },
+  "homepage": "",
+  "dependencies": {
+    "console-table-printer": "^1.6.3",
+    "figlet": "^1.4.0",
+    "inquirer": "^7.3.3",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.3.3-rc.0"
+  }
+}
